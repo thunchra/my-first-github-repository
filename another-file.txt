@@ -2,3 +2,4 @@ created on remote repo
 test pull from local
 
 add this line from local repository
+test git add/commit
